@@ -1,0 +1,8 @@
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/elirod2/Documents/ProjectEndlessRunner/.utmp/RelWithDebInfo/1s1n1e3l/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir
